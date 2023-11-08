@@ -1,0 +1,567 @@
+@media only screen and (min-width: 0px) and (max-width:600px) {
+
+    /* Nav */
+    .nav .container {
+        justify-content: space-between
+    }
+
+    .nav .container .anchors {
+        display: none;
+    }
+
+    .nav .container .mode {
+        margin-top: 28px;
+        margin-left: 270px;
+    }
+
+    /* Nav */
+
+    /* Home */
+    .home {
+        height: 176vh;
+
+    }
+
+    .home .left_sec {
+        height: 50%;
+        width: 100%;
+    }
+
+    .home .right_sec {
+        height: 50%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Home */
+
+    /* Chefs */
+    .chefs {
+        height: 270vh;
+        width: 100%;
+    }
+
+    .chefs .container .boxes {
+        height: 80%;
+    }
+
+    .chefs .container .boxes .box {
+        margin-top: 70px;
+        margin-bottom: 60px;
+        width: 90%;
+        height: 25%;
+    }
+
+    /* Chefs */
+
+    /* Gallery */
+    .gallery {
+        height: 450vh;
+    }
+
+    .gallery .container .boxes {
+        height: 93%;
+        align-items: center;
+
+    }
+
+    /* Gallery */
+
+    /* Contact */
+    .contact {
+        height: 320vh;
+    }
+
+    .contact .container iframe {
+        width: 100%;
+        height: 620px;
+    }
+
+    .contact .container .boxes {
+        height: 1200px;
+    }
+
+    .contact .container .boxes .box p {
+        bottom: 110%;
+        left: -10%;
+    }
+
+    .contact .container button {
+        padding: 20px 75px;
+
+    }
+
+    /* Contact */
+    
+    /* end */
+    .end {
+        height: 200vh;
+    }
+    .end .container {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-flow: column;
+        row-gap: 20px;
+        column-gap: 100px;
+    }
+    .end .container .box_1 {
+        width: 100%;
+        height: 33%;
+    }
+    .end .container .box_2 {
+        width: 100%;
+        height: 33%;
+    }
+
+    .end .container .box_2 .input_box {
+        width: 85%;
+        height: 12%;
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .end .container .box_2 ul {
+        flex-flow: column;
+    }
+    .end .container .box_3 {
+        width: 100%;
+        height: 33%;
+    }
+    /* end */
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+
+    /* Nav */
+    .nav .container .anchors {
+        display: none;
+    }
+
+    .nav .container .mode {
+        margin-top: 28px;
+        margin-left: 350px;
+    }
+
+    /* Nav */
+    /* Home */
+    .home {
+        height: 176vh;
+
+    }
+
+    .home .left_sec {
+        height: 50%;
+        width: 100%;
+    }
+
+    .home .right_sec {
+        height: 50%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Home */
+
+    /* Chefs */
+    .chefs {
+        height: 270vh;
+        width: 100%;
+    }
+
+    .chefs .container .boxes {
+        height: 80%;
+    }
+
+    .chefs .container .boxes .box {
+        margin-top: 70px;
+        margin-bottom: 60px;
+        width: 90%;
+        height: 25%;
+    }
+
+    /* Chefs */
+
+    /* Gallery */
+    .gallery {
+        height: 450vh;
+    }
+
+    .gallery .container .boxes {
+        height: 93%;
+        align-items: center;
+    }
+
+    /* Gallery */
+
+    /* Contact */
+    .contact {
+        height: 320vh;
+    }
+
+    .contact .container iframe {
+        width: 100%;
+        height: 620px;
+    }
+
+    .contact .container .boxes {
+        height: 1200px;
+    }
+
+    .contact .container .boxes .box p {
+        bottom: 110%;
+        left: -10%;
+    }
+
+    .contact .container button {
+        padding: 20px 75px;
+
+    }
+
+    /* Contact */
+
+        /* end */
+        .end {
+            height: 200vh;
+        }
+        .end .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            align-items: center;
+            flex-wrap: wrap;
+            flex-flow: column;
+            row-gap: 20px;
+            column-gap: 100px;
+        }
+        .end .container .box_1 {
+            width: 100%;
+            height: 33%;
+        }
+        .end .container .box_1 img {
+            width: 44px;
+            position: relative;
+            left: -300px;
+            bottom: 50px;
+        }
+        .end .container .box_2 {
+            width: 100%;
+            height: 33%;
+        }
+    
+        .end .container .box_2 .input_box {
+            width: 85%;
+            height: 12%;
+            margin-top: 0px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .end .container .box_2 ul {
+            flex-flow: column;
+        }
+        .end .container .box_3 {
+            width: 100%;
+            height: 33%;
+        }
+        /* end */
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+
+    /* Nav */
+    .nav .container .anchors {
+        display: none;
+    }
+
+    .nav .container .mode {
+        margin-top: 28px;
+        margin-left: 500px;
+    }
+
+    /* Nav */
+
+    /* Home */
+    .home {
+        height: 176vh;
+
+    }
+
+    .home .left_sec {
+        height: 50%;
+        width: 100%;
+    }
+
+    .home .right_sec {
+        height: 50%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home .right_sec .image-box img {
+        margin-top: 90px;
+        width: 700px;
+    }
+
+    .home .left_sec .btns {
+        margin-left: 300px;
+    }
+
+    /* Home */
+    /* Chefs */
+    .chefs {
+        height: 200vh;
+        width: 100%;
+    }
+
+    .chefs .container .boxes {
+        height: 80%;
+    }
+
+    .chefs .container .boxes .box {
+        margin-top: 70px;
+        margin-bottom: 60px;
+        width: 40%;
+        height: 25%;
+        align-items: start;
+    }
+
+    .chefs .container .boxes .box:hover .overlay {
+        transition-duration: 1s;
+        right: -80px
+    }
+
+    /* Chefs */
+
+    /* Gallery */
+    .gallery {
+        height: 200vh;
+    }
+
+    .gallery .container .boxes {
+        height: 93%;
+        width: 100%;
+        gap: 0px;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .gallery .container .boxes .box_1 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_1 img {
+        width: 100%;
+    }
+
+    .gallery .container .boxes .box_2 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_3 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_4 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_5 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_6 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_7 {
+        width: 50%
+    }
+
+    .gallery .container .boxes .box_2 img {
+        width: 100%;
+    }
+
+    .gallery .container .boxes .box_3 img {
+        width: 100%;
+    }
+
+    .gallery .container .boxes .box_4 img {
+        width: 100%;
+    }
+
+    .gallery .container .boxes .box_5 img {
+        width: 100%;
+    }
+
+    .gallery .container .boxes .box_6 img {
+        width: 100%;
+    }
+
+    .gallery .container .boxes .box_7 img {
+        width: 100%;
+    }
+
+    /* Gallery */
+
+    /* Contact */
+    .contact {
+        height: 320vh;
+    }
+
+    .contact .container iframe {
+        width: 100%;
+        height: 620px;
+    }
+
+    .contact .container .boxes {
+        height: 1200px;
+    }
+
+    .contact .container .boxes .box p {
+        bottom: 110%;
+        left: -10%;
+    }
+
+    .contact .container button {
+        padding: 20px 75px;
+
+    }
+
+    /* Contact */
+        /* end */
+        .end {
+            height: 200vh;
+        }
+        .end .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            align-items: center;
+            flex-wrap: wrap;
+            flex-flow: column;
+            row-gap: 20px;
+            column-gap: 100px;
+        }
+        .end .container .box_1 {
+            width: 100%;
+            height: 33%;
+        }
+        .end .container .box_2 {
+            width: 100%;
+            height: 33%;
+        }
+    
+        .end .container .box_2 .input_box {
+            width: 85%;
+            height: 12%;
+            margin-top: 0px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .end .container .box_2 ul {
+            flex-flow: column;
+        }
+        .end .container .box_3 {
+            width: 100%;
+            height: 33%;
+        }
+        /* end */
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+    .nav .container .dots {
+        display: none;
+    }
+
+    .gallery {
+        height: 259vh;
+    }
+
+    .gallery .container .boxes {
+        height: 93%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    /* Gallery */
+    /* Contact */
+    .contact {
+        height: 320vh;
+    }
+
+    .contact .container iframe {
+        width: 100%;
+        height: 620px;
+    }
+
+    .contact .container .boxes {
+        height: 1500px;
+    }
+
+    .contact .container .boxes .box p {
+        bottom: 110%;
+        left: -10%;
+    }
+
+    .contact .container button {
+        padding: 20px 75px;
+
+    }
+
+    /* Contact */
+        /* end */
+        .end {
+            height: 200vh;
+        }
+        .end .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            align-items: center;
+            flex-wrap: wrap;
+            flex-flow: column;
+            row-gap: 20px;
+            column-gap: 100px;
+        }
+        .end .container .box_1 {
+            width: 100%;
+            height: 33%;
+        }
+        .end .container .box_2 {
+            width: 100%;
+            height: 33%;
+        }
+    
+        .end .container .box_2 .input_box {
+            width: 85%;
+            height: 12%;
+            margin-top: 0px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .end .container .box_2 ul {
+            flex-flow: column;
+        }
+        .end .container .box_3 {
+            width: 100%;
+            height: 33%;
+        }
+        /* end */
+
+}
